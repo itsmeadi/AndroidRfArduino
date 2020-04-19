@@ -1,0 +1,2 @@
+rootProject.name='ArduinoServoRf'
+include ':app', ':usbserial-6.1.0-release'
